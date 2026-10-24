@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img
     width="100%"
@@ -6,4 +5,3 @@
     alt="Mohamed Abdelaleem GitHub Banner"
   />
 </p>
-```
