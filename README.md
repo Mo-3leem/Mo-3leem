@@ -1,25 +1,21 @@
-```markdown
 <!-- Profile Header -->
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0B3D52%2C100%3A0E7490&height=230&section=header&text=Mohamed%20Abdelaleem&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineering&descSize=20&descAlignY=57&animation=fadeIn&fontFamily=Segoe%20UI"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0B3D52%2C100%3A0E7490&height=230&section=header&text=Mohamed%20Abdelaleem&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineering&descSize=20&descAlignY=57&animation=fadeIn"
     alt="Mohamed Abdelaleem"
   />
 </p>
 
-<!-- Introduction -->
 <h1 align="center">Hi, I'm Mohamed Abdelaleem 👋</h1>
 
-<h3 align="center">
-  Full-Stack Developer | Backend Engineering | Competitive Programming
-</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineering | Competitive Programming</h3>
 
 <p align="center">
   Computer Science student at Modern Academy, Cairo, Egypt.
-  <br />
+  <br/>
   I build web applications, secure REST APIs, and reliable backend systems.
-  <br />
+  <br/>
   Currently expanding my expertise in Java, Spring Boot, and system design.
 </p>
 
@@ -31,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/Mo_3leem">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
   </a>
 </p>
 
@@ -43,7 +39,7 @@
 - 💼 Full-Stack Developer at **ARID**.
 - 👨‍🏫 Problem Solving Instructor at **Coach Academy**.
 - ☕ Building backend applications with **Java and Spring Boot**.
-- 🟢 Experienced in **Node.js, Express.js, and REST API development**.
+- 🟢 Working with **Node.js, Express.js, and REST API development**.
 - 🗄️ Interested in database design, transaction safety, concurrency, and backend security.
 - 🧠 Competitive programmer with **2,000+ problems solved**.
 - 🏆 **ECPC Finalist**.
@@ -52,13 +48,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" alt="Java, C++, JavaScript, HTML, CSS"/>
 </p>
 
-### Backend Development
+**Backend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js, Express.js"/>
@@ -69,13 +65,13 @@
 - Input validation and API documentation
 - Transaction management and concurrency control
 
-### Frontend Development
+**Frontend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js"/>
 </p>
 
-### Databases and Tools
+**Databases and Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,maven,postman" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Maven, Postman"/>
@@ -142,12 +138,6 @@ An online code execution platform supporting multiple programming languages.
 
 I enjoy solving algorithmic problems and helping others improve their problem-solving skills.
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Mo_3leem">
-    <img src="https://img.shields.io/badge/Codeforces-Visit%20My%20Profile-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/>
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -187,4 +177,3 @@ I enjoy solving algorithmic problems and helping others improve their problem-so
 <p align="center">
   <i>Building reliable systems, solving problems, and learning every day.</i>
 </p>
-```
