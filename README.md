@@ -20,9 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mo-3leem">
-    <img src="https://img.shields.io/badge/GitHub-Mo--3leem-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
   <a href="https://linkedin.com/in/mohamed-abdelaeem">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -125,7 +122,7 @@ An online code execution platform supporting multiple programming languages.
 - Added CPU, memory, process, timeout, and network restrictions to execution containers.
 - Built authentication, project management, and execution history features.
 
-🔗 [Explore My Repositories](https://github.com/Mo-3leem?tab=repositories)
+🔗 [View Repository]([https://github.com/Mo-3leem?tab=repositories](https://github.com/Mo-3leem/interactive-compiler-platform.git))
 
 ---
 
@@ -167,8 +164,6 @@ I enjoy solving algorithmic problems and helping others improve their problem-so
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Mo-3leem">GitHub</a>
-  &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/mohamed-abdelaeem">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="https://codeforces.com/profile/Mo_3leem">Codeforces</a>
