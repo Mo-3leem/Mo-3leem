@@ -109,7 +109,7 @@ A financial backend focused on reliable money transfers and database consistency
 - Implemented idempotent APIs to help prevent duplicate operations.
 - Added database indexes and automated integration tests.
 
-🔗 [View Repository](https://github.com/Mo-3leem/interactive-compiler-platform)
+🔗 [View Repository](https://github.com/Mo-3leem/wallet-transfers-api)
 
 ### 3. Interactive Compiler Platform
 
@@ -122,7 +122,7 @@ An online code execution platform supporting multiple programming languages.
 - Added CPU, memory, process, timeout, and network restrictions to execution containers.
 - Built authentication, project management, and execution history features.
 
-🔗 [View Repository]([https://github.com/Mo-3leem?tab=repositories](https://github.com/Mo-3leem/interactive-compiler-platform.git))
+🔗 [View Repository](https://github.com/Mo-3leem/interactive-compiler-platform)
 
 ---
 
