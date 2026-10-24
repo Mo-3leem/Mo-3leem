@@ -109,7 +109,7 @@ A financial backend focused on reliable money transfers and database consistency
 - Implemented idempotent APIs to help prevent duplicate operations.
 - Added database indexes and automated integration tests.
 
-🔗 [View Repository](https://github.com/Mo-3leem/wallet-transfers-api)
+🔗 [View Repository](https://github.com/Mo-3leem/interactive-compiler-platform)
 
 ### 3. Interactive Compiler Platform
 
